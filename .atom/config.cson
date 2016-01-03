@@ -29,31 +29,33 @@
     isortPath: "/Users/fcheung/anaconda/bin/isort"
   "merge-conflicts": {}
   "spell-check": {}
+  "open-recent":
+    maxRecentFiles: 16
 ".latex.rd.tex.text":
-  editor:
-    preferredLineLength: 100
-".console.python.text":
-  editor:
-    preferredLineLength: 100
-".python.text.traceback":
   editor:
     preferredLineLength: 100
 ".python.regexp.source":
   editor:
     preferredLineLength: 100
     normalizeIndentOnPaste: " "
-".cpp.source":
+".python.text.traceback":
   editor:
     preferredLineLength: 100
-".c.source":
+".console.python.text":
   editor:
     preferredLineLength: 100
-".scala.source":
+".r.source":
   editor:
     preferredLineLength: 100
 ".python.source":
   editor:
     preferredLineLength: 100
-".r.source":
+".scala.source":
+  editor:
+    preferredLineLength: 100
+".c.source":
+  editor:
+    preferredLineLength: 100
+".cpp.source":
   editor:
     preferredLineLength: 100
