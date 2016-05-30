@@ -1,0 +1,21 @@
+"avvojob-check":
+  title: "avvo job-check"
+  paths: [
+    "/Users/fcheung/datagit/recurring_jobs/job-check"
+  ]
+avvogetstat:
+  title: "avvo getstat"
+  paths: [
+    "/Users/fcheung/datagit/recurring_jobs/getstat"
+  ]
+sparkr:
+  title: "Spark R"
+  paths: [
+    "/Users/fcheung/Documents/gitclone/spark/R/pkg/R"
+    "/Users/fcheung/Documents/gitclone/spark/R/pkg/inst/tests/testthat"
+  ]
+sparkpyspark:
+  title: "Spark pyspark"
+  paths: [
+    "/Users/fcheung/Documents/gitclone/spark/python/pyspark"
+  ]

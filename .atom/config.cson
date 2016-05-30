@@ -1,61 +1,62 @@
 "*":
-  editor:
-    invisibles: {}
-    showIndentGuide: true
-    preferredLineLength: 100
   core:
+    openEmptyEditorOnStart: false
     themes: [
       "one-dark-ui"
       "one-dark-syntax"
     ]
-  minimap: {}
+  editor:
+    invisibles: {}
+    preferredLineLength: 100
+    showIndentGuide: true
   "exception-reporting":
     userId: "df95e3c2-26de-a60d-f247-b230f3472387"
-  welcome:
-    showOnStartup: false
-  "tree-view": {}
   linter:
     showErrorPanel: false
-  "linter-shellcheck":
-    shellcheckExecutablePath: "/usr/local/bin/shellcheck"
   "linter-pylama":
     executablePath: "/Users/fcheung/anaconda/bin/pylama"
-    usePylint: true
     ignoreErrorsAndWarnings: "E501"
+    usePylint: true
+  "linter-shellcheck":
+    shellcheckExecutablePath: "/usr/local/bin/shellcheck"
+  "merge-conflicts": {}
+  minimap: {}
+  "open-recent":
+    maxRecentFiles: 16
+  "python-isort":
+    isortPath: "/Users/fcheung/anaconda/bin/isort"
   "python-yapf":
     yapfPath: "/Users/fcheung/anaconda/bin/yapf"
     yapfStyle: "{based_on_style: google, column_limit: 100}"
-  "python-isort":
-    isortPath: "/Users/fcheung/anaconda/bin/isort"
-  "merge-conflicts": {}
   "spell-check": {}
-  "open-recent":
-    maxRecentFiles: 16
-".latex.rd.tex.text":
-  editor:
-    preferredLineLength: 100
-".python.regexp.source":
-  editor:
-    preferredLineLength: 100
-    normalizeIndentOnPaste: " "
-".python.text.traceback":
+  "tree-view": {}
+  welcome:
+    showOnStartup: false
+".c.source":
   editor:
     preferredLineLength: 100
 ".console.python.text":
   editor:
     preferredLineLength: 100
-".r.source":
+".cpp.source":
   editor:
+    preferredLineLength: 100
+".latex.rd.tex.text":
+  editor:
+    preferredLineLength: 100
+".python.regexp.source":
+  editor:
+    normalizeIndentOnPaste: " "
     preferredLineLength: 100
 ".python.source":
   editor:
     preferredLineLength: 100
+".python.text.traceback":
+  editor:
+    preferredLineLength: 100
+".r.source":
+  editor:
+    preferredLineLength: 100
 ".scala.source":
-  editor:
-    preferredLineLength: 100
-".c.source":
-  editor:
-    preferredLineLength: 100
-".cpp.source":
   editor:
     preferredLineLength: 100
